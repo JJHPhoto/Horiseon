@@ -30,3 +30,4 @@ descriptive text where you can’t use alt text.
 * .benefits
 * boxes inside .benefits box
 * boxes inside .content box
+6. Changed the blue background for boxes to one color of blue. 
