@@ -27,8 +27,8 @@ descriptive text where you can’t use alt text.
 3. Rearranged “a” and “p” font styles to above the “.content” style to create better flow of information. 
 4. Consolidated styles for “Sidebar” boxes to target the new “div class” I made for index.html. 
 5. Rearranged style order so that the styles for boxes inside the “content” box follow the styles of the “content” box. Prior to this, the order was: 
-* .content
-* .benefits
-* boxes inside .benefits box
-* boxes inside .content box
+    * .content
+    * .benefits
+    * boxes inside .benefits box
+    * boxes inside .content box
 6. Changed the blue background for boxes to one color of blue. 
