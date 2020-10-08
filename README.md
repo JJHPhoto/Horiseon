@@ -32,3 +32,7 @@ descriptive text where you can’t use alt text.
     * boxes inside .benefits box
     * boxes inside .content box
 6. Changed the blue background for boxes to one color of blue. 
+
+## Screenshot
+
+![Image](./assets/images/Homework-Screenshots.jpg)
