@@ -1,7 +1,7 @@
 # Horiseon
 This is my first homework assignment from my coding certificate program. We were given demo files of an SEO company called "Horiseon" to work with. We worked on HTML semantics and cleaning up the CSS. 
 
-Changes I made to the HTML.
+## Changes I made to the HTML.
 
 1. Added space between the "div"s in the "body" to make it easier to read. 
 2. Changed the title from “website” to “Horiseon”
@@ -12,7 +12,7 @@ Changes I made to the HTML.
 7. Removed an unnecessary img tag from the “Cost Management” graphic. 
 8. Updated the copyright to 2020.
 
-Changes I made to the CSS.
+## Changes I made to the CSS.
 
-1. Added comments on elements.
+1. Added notes to style.css.
 2. Removed list style type from “.header div ul”.
