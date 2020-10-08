@@ -17,8 +17,10 @@ descriptive text where you can’t use alt text.
 6. Added image descriptions for “body” images. 
 7. Removed an unnecessary img tag from the “Cost Management” graphic. 
 8. Updated the copyright to 2020.
-9. Created a new “div class” to replace repeating “div classes” in the “Sidebar.” section. 
+9. Created a new “div class” and named it “benefit-box” to consolidate code in the “Sidebar”. 
 10. Removed unnecessary “div id” tags from two of the boxes inside the “content” box.
+11. Created a new “dive class” and named it “content-boxes” to consolidate code in the “Body”. 
+
 
 ## Changes I made to the CSS.
 
@@ -32,6 +34,7 @@ descriptive text where you can’t use alt text.
     * boxes inside .benefits box
     * boxes inside .content box
 6. Changed the blue background for boxes to one color of blue. 
+7. Consolidated styles for “Body” boxes to target the new “div class=content-boxes” I made for index.html. 
 
 ## Screenshot
 
