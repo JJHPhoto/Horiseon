@@ -19,7 +19,8 @@ descriptive text where you can’t use alt text.
 8. Updated the copyright to 2020.
 9. Created a new “div class” and named it “benefit-box” to consolidate code in the “Sidebar”. 
 10. Removed unnecessary “div id” tags from two of the boxes inside the “content” box.
-11. Created a new “dive class” and named it “content-boxes” to consolidate code in the “Body”. 
+11. Created a new “dive class” and named it “content-boxes” to consolidate code in the “Body”.
+12. Linked my Navbar to my h2 sections inside “content-boxes”.  
 
 
 ## Changes I made to the CSS.
