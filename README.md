@@ -1,5 +1,5 @@
 # Horiseon
-This is my first homework assignment from my coding certificate program. We were given demo files to go over. We worked on HTML semantics and cleaning up the CSS. 
+This is my first homework assignment from my coding certificate program. We were given demo files of an SEO company called "Horiseon" to work with. We worked on HTML semantics and cleaning up the CSS. 
 
 Changes I made to the HTML
 
