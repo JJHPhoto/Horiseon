@@ -18,6 +18,7 @@ descriptive text where you can’t use alt text.
 7. Removed an unnecessary img tag from the “Cost Management” graphic. 
 8. Updated the copyright to 2020.
 9. Created a new “div class” to replace repeating “div classes” in the “Sidebar.” section. 
+10. Removed unnecessary “div id” tags from two of the boxes inside the “content” box.
 
 ## Changes I made to the CSS.
 
