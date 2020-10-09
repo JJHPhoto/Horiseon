@@ -115,7 +115,7 @@ p {
     background-color: #2589bd;
 }
 
-/* Properties for aside boxes */
+/* Properties for aside box. */
 .benefit-box {
     margin-bottom: 32px;
     color: #ffffff;
@@ -133,8 +133,6 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
 
 /* Properties for footer. */
 .footer {
