@@ -1,41 +1,40 @@
 # Horiseon
-This is my first homework assignment from my coding certificate program. We were given demo files of an SEO company called "Horiseon" to work with. We worked on HTML semantics and cleaning up the CSS. 
+This is my first homework assignment from my coding certificate program. We were given demo files of an SEO company called "Horiseon" to work with. Our assignment was to work on HTML semantics, clean up the CSS and present a working website. 
 
-## Changes I made in HTML.
+## My Worflow
+<br>
 
-1. Added rows between the &lt;div&gt; and other tags in the &lt;body&gt; to make it easier to read. 
-2. Changed the title from “website” to “Horiseon Marketing."
-3. Noted where the &lt;Header&gt;, &lt;Navbar&gt;, &lt;Body&gt;, &lt;Sidebar&gt;, and &lt;Footer&gt; are.
-4. Added an aria-label to the &lt;hero&gt; image. 
-```
-    I wanted to add descriptive text for it and didn’t know how to till I watched a replay 
-    of the office hours. In it, our teacher demo’d how that can add descriptive text where 
-    you can’t add descriptive text. 
-```
-5. Turned the &lt;div&gt; header into a &lt;header&gt;. 
-6. Added image descriptions for &lt;body&gt; images. 
-7. Removed an unnecessary &lt;img&gt; tag from the &lt;Cost Management&gt; clip art. 
-8. Updated the copyright to 2020.
-9. Created a new &lt;div&gt; class and named it &lt;benefit-box&gt; to consolidate code in the &lt;Sidebar&gt;. 
-10. Removed unnecessary &lt;div id&gt; tags from two of the boxes inside the &lt;content&gt; box.
-11. Created a new &lt;div&gt; class and named it &lt;content-boxes&gt; to consolidate code in the &lt;Body&gt;.
-12. Linked my Navbar to my h2 sections inside &lt;content-boxes&gt;.  
+### 1. Clean up and consolidation.
 
+    a) Added rows to separate areas to make the HTML easier to read. 
+    b) Noted the header, navbar, body, sidebar and footer areas inside index.html. 
+    c) Commented on each section inside style.css. 
+    d) Added alternative text to all images and clip art.
+    e) Removed unnecessary tags and styles.
+    f) Turned "div header" into a "header". 
+    g) Created a new div classes called "content-boxes" and "benefit-box" to consolidate code.
+    h) Consolidated my css styles to target my new div classes. 
+    i) Rearranged some sections inside style.css to have style sections in relevant areas.
+        • "a" and "p" font styles were moved above the ".content" style.
+        • "content-boxes" placed after ".content".
+        • "benefit-box" placed after ".benefit".
 
-## Changes I made in CSS.
+<br>
 
-1. Added notes to style.css.
-2. Removed list style type from “.header div ul”.
-3. Rearranged “a” and “p” font styles to above the “.content” style to create better flow of information. 
-4. Consolidated styles for &lt;Sidebar&gt; boxes to target the new &lt;div&gt; class I made for index.html. 
-5. Rearranged style order so that the styles for boxes inside the “content” box follow the styles of the “content” box. Prior to this, the order was: 
-    * .content
-    * .benefits
-    * boxes inside .benefits box
-    * boxes inside .content box
-6. Changed the blue background for boxes to one color of blue. 
-7. Consolidated styles for &lt;Body&gt; boxes to target the new &lt;div class=content-boxes&gt; I made for index.html. 
+### 2. My modifications.
+<br> 
 
-## Screenshot of Working Website.
+    a) Changed the website title from “website” to “Horiseon Marketing."
+    b) Added an aria-label to the "hero" image. 
+        I wanted to add descriptive text for it and didn’t know how to till I watched a replay 
+        of the office hours. In it, our teacher demo’d how that can add descriptive text where 
+        you can’t add descriptive text. 
+        
+    c) Added names to my h2 sections inside "content-boxes" and linked them to my Navbar. 
+    d) Changed the font size in "p" to make it easier to read. 
+    e) I changed the blue in the "content-boxes" and "benefit-box" to match the blue in the "Navbar". This made the text in the boxes easier to read for me and it happened to match the jean jacket in the "hero" image. 
+    f) Updated the copyright to 2020.
+
+## Screenshot of the working website.
 
 ![Image](./assets/images/Homework-Screenshots.jpg)
